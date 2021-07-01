@@ -1,4 +1,6 @@
 country,name,full_name,symbol,tag,id,isin,asset_class,currency,stock_exchange,def_stock_exchange
+united kingdom,iShares Core MSCI Emerging Markets IMI UCITS,iShares Core MSCI Emerging Markets IMI UCITS,EMIM,ishares-core-msci-em-imi?cid=995743,995743,IE00BKM4GZ66,equity,GBP,London,True
+germany,Vanguard LifeStrategy 80% Equity UCITS,Vanguard LifeStrategy 80% Equity UCITS,V80A,v80a,1168580,IE00BMVB5R75,equity,EUR,Xetra,True
 australia,Australian High Interest Cash,Australian High Interest Cash,AAA,betashares-aus-high-interest-cash,38946,AU000000AAA3,other,AUD,Sydney,True
 australia,VanEck Vectors MSCI International Sustainable Equi,VanEck Vectors MSCI International Sustainable Equity,ESGI,vaneck-vectors-msci-intl-sstnbl-eq,1072346,AU0000001356,equity,AUD,Sydney,True
 australia,BetaShares Australian Equities Strong Bear Hedge,BetaShares Australian Equities Strong Bear Hedge,BBOZ,betashares-australian-equities-stro,959566,AU00000BBOZ2,equity,AUD,Sydney,True
